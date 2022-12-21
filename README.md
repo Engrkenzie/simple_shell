@@ -33,8 +33,17 @@
 ** string1.c
 ** string.c
 
-# start shell
+# compile
 
-** gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o shell && ./shell
+** gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o shell
+
+## Enter interactive mode
+
+** ./shell
+
+## Non-interactive mode
+
+** echo "commad" | ./shell
+** Replace command with the command you want to run i.e ls, cd....
 
 ## Enjoy using our shell😎️
