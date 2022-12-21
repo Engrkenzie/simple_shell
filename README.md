@@ -7,6 +7,11 @@
 ** Ratshitimba Murendwa
 ** Ekene Ekpunobi
 
+## Editors
+
+** vim
+** Emacs
+
 # Files
 
 ** string
