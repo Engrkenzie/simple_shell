@@ -32,3 +32,9 @@
 ** shell_loop.c
 ** string1.c
 ** string.c
+
+# start shell
+
+** gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o shell && ./shell
+
+## Enjoy using our shell😎️
