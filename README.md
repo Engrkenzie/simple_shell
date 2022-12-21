@@ -1,4 +1,6 @@
-# simple shell - ALX
+# 0x16. C - Simple Shell
+
+** 07 December 2022
 
 # AUTHORS
 
