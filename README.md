@@ -50,7 +50,7 @@
 
 ## Non-interactive mode
 
-** echo "commad" | ./shell
+** echo "command" | ./shell
 ** Replace command with the command you want to run i.e ls, cd....
 
 ## Enjoy using our shell😎️
